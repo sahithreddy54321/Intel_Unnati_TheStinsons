@@ -1,6 +1,6 @@
 # SMART MOBILE PRICE PREDICTION USING MACHINE LEARNING
 
-## Team Name - Intel_Unnati_TheStinsons
+## Team Name - The Stinsons
 Additionally, for easy access to the project, you can also click [here](https://drive.google.com/drive/folders/1V1no_ysIv5EP1tIwCRM_U3MnXE6JJB_e?usp=sharing) in case you encounter any difficulties accessing the code.
 
 This project is a Smart Phone Price Prediction System that utilizes machine learning algorithms, specifically Support Vector Machines (SVM) and Random Forest, to predict the prices of smartphones based on various features.
