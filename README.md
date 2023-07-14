@@ -12,6 +12,7 @@ This project is a Smart Phone Price Prediction System that utilizes machine lear
 - [Installation](#installation)
 - [Usage](#usage)
 - [Algorithms](#algorithms)
+- [Contact](#contact)
 
 
 ## Introduction
@@ -55,14 +56,29 @@ To use the Smart Phone Price Prediction System, follow these steps:
 
 4. Apply the chi2 feature selection technique to extract the top 10 most important features from the preprocessed dataset.
 
-5. Run the model training script or notebook to train the SVM and Random Forest models using the selected features.
+5. Run the notebook to train the SVM and Random Forest models using the selected features.
 
-6. Once the models are trained, you can use the provided functions or scripts to input smartphone features and generate price predictions.
+6. Once the models are trained, you can use the provided functions to input smartphone features and generate price predictions.
 
 ## Algorithms
 
-Random Forest: Random Forest is an ensemble learning method that combines multiple decision trees to make predictions. It provides high accuracy and handles large datasets with ease.
+[Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html): Random Forest is a popular machine learning algorithm that belongs to the supervised learning technique. It can be used for both Classification and Regression problems in ML. It is based on the concept of ensemble learning, which is a process of combining multiple classifiers to solve a complex problem and to improve the performance of the model.
 
-Support Vector Machines (SVM): SVM is a powerful algorithm used for classification and regression tasks. It finds an optimal hyperplane that maximally separates different classes or predicts continuous target values.
+As the name suggests, "Random Forest is a classifier that contains a number of decision trees on various subsets of the given dataset and takes the average to improve the predictive accuracy of that dataset." Instead of relying on one decision tree, the random forest takes the prediction from each tree and based on the majority votes of predictions, and it predicts the final output.
+
+The greater number of trees in the forest leads to higher accuracy and prevents the problem of overfitting.
+
+[Support Vector Machines (SVM)](https://scikit-learn.org/stable/modules/svm.html): Support Vector Machine or SVM is one of the most popular Supervised Learning algorithms, which is used for Classification as well as Regression problems. However, primarily, it is used for Classification problems in Machine Learning.
+
+The goal of the SVM algorithm is to create the best line or decision boundary that can segregate n-dimensional space into classes so that we can easily put the new data point in the correct category in the future. This best decision boundary is called a hyperplane.
+
+SVM chooses the extreme points/vectors that help in creating the hyperplane. These extreme cases are called as support vectors, and hence algorithm is termed as Support Vector Machine.
 
 These algorithms are trained on the preprocessed dataset to learn the relationships between smartphone features and prices, enabling accurate price predictions.
+
+## Contact
+
+| Name  | Email id |
+| ------------- | ------------- |
+| Vellenki Sahith Reddy  | [sahithreddy54321@gmail.com]  |
+| Vanguri Ghan Shyam Ruthik Rajan  | [ghanshyamruthikrajan@gmail.com]  |
