@@ -80,5 +80,5 @@ These algorithms are trained on the preprocessed dataset to learn the relationsh
 
 | Name  | Email id |
 | ------------- | ------------- |
-| Vellenki Sahith Reddy  | [sahithreddy54321@gmail.com]  |
-| Vanguri Ghan Shyam Ruthik Rajan  | [ghanshyamruthikrajan@gmail.com]  |
+| Vellenki Sahith Reddy  | sahithreddy54321@gmail.com  |
+| Vanguri Ghan Shyam Ruthik Rajan  | ghanshyamruthikrajan@gmail.com  |
